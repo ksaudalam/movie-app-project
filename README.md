@@ -1,1 +1,1 @@
-# movie-app-project
+# movie-project
